@@ -1,0 +1,32 @@
+.btn-blue {
+  background-color: #17d7fc;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+#btn-photo {
+  margin: 10px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  display: inline-flex;
+}
+
+.btn-blue:hover {
+  background-color: #227DD8;
+  color: white;
+}
+
+#button-link {
+  margin: 30px;
+}
+
+#btn-codex {
+  padding: 15px 27px;
+}
+
+#btn-apply {
+  padding: 15px 29px;
+}
